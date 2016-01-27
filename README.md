@@ -1,2 +1,2 @@
 # datasciencecoursera
-Data scientist test repo 
+Coursera Data scientist specialization repository 
